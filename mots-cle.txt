@@ -1,0 +1,23 @@
+location
+abonnement
+locaservice
+
+equipement
+materiel
+consommable
+carrosserie
+outillage
+outils
+produit
+
+automobile
+garage
+
+-------
+location materiel automobile
+location equipement automobile
+location materiel garage
+location equipement garage
+location consommable garage
+location carrosserie
+location outils
